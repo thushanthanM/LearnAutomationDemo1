@@ -7,3 +7,4 @@ This is a idea of project
 5. Hiding last seen
 6. Added audio call feature
 7. Added video call feature
+8. Adding status so that user can play train game
