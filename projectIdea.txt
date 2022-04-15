@@ -4,3 +4,4 @@ This is a idea of project
 2. Chat screen code
 3. Last seen code
 4. Attachments (Image, Audio, Video) code
+5. Hiding last seen
